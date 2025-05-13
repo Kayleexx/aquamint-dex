@@ -72,6 +72,10 @@ AquaMint is a sleek, on-chain interface to create new ERC-20 token pairs and boo
 ```bash
 git clone https://github.com/Kayleexx/aquamint-dex.git
 cd aquamint-dex
+
+https://github.com/user-attachments/assets/99294e3d-1c69-4bcd-b409-6c49da5cea06
+
+
 ````
 
 ### 2. Install dependencies
@@ -95,20 +99,7 @@ npm run dev
 
 > 🧠 Make sure to fund your wallet with testnet ETH and hold some testnet ERC-20 tokens.
 
----
 
-## 🧠 Why This Matters
+## Demo video
+https://github.com/user-attachments/assets/6b971519-40d9-4086-8193-a896cebe76be
 
-Creating liquidity pools is essential for launching tokens and markets. AquaMint gives builders and protocols a fast way to spin up new pairs and bootstrap liquidity on a real AMM. By using real DEX contracts (like UniswapV2), this app simulates real-world trading infrastructure in a test environment — perfect for hackathons, demos, or onboarding token projects.
-
----
-
-## 📷 Screenshots
-
-
-
-
-
----
-
-**AquaMint** – Bootstrapping Liquidity, One Pool at a Time 🌊
