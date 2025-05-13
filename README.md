@@ -3,13 +3,6 @@
 
 AquaMint is a sleek, on-chain interface to create new ERC-20 token pairs and bootstrap liquidity pools on a Uniswap-style DEX (testnet only). Designed for DEX builders, token teams, and Web3 hackers, AquaMint simplifies the process of launching a new trading market by combining pool creation and liquidity provisioning into a single flow.
 
----
-
-## 🚀 One-Liner
-
-> A UI to launch a new token pair and add initial liquidity on a DEX — from approval to pool creation.
-
----
 
 ## 🎯 Features
 
