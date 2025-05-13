@@ -73,8 +73,6 @@ AquaMint is a sleek, on-chain interface to create new ERC-20 token pairs and boo
 git clone https://github.com/Kayleexx/aquamint-dex.git
 cd aquamint-dex
 
-https://github.com/user-attachments/assets/99294e3d-1c69-4bcd-b409-6c49da5cea06
-
 
 ````
 
